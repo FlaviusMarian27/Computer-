@@ -1,2 +1,2 @@
-# Computer-
+# Computer
 computer programming
